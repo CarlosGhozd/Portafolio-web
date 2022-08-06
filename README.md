@@ -17,7 +17,7 @@
         <img src="https://i.postimg.cc/mgSDG9F2/css.png" alt="CSS" width="100%"/>
       </td>
       <td>
-        <img src="https://i.postimg.cc/6QL9Bwb6/kisspng-javascript-html-computer-software-web-browser-watermark-5acdbd5508ada4-437525501523432789035.png" alt="CSS" width="100%"/>
+        <img src="https://i.postimg.cc/6QL9Bwb6/kisspng-javascript-html-computer-software-web-browser-watermark-5acdbd5508ada4-437525501523432789035.png" alt="JS" width="100%"/>
       </td>
     </tr>
   </tbody>
