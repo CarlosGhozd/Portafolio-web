@@ -33,9 +33,8 @@
 
 </p>
 
-Redes sociales:
+# Redes sociales:
 
-- 🐭 GitHub: https://github.com/CarlosGhozd 
-- 🐭 Instagram: https://www.instagram.com/carlos_ghozd/
-- 🐭 Discord: https://www.discord.io/chocomara
-
+- GitHub: https://github.com/CarlosGhozd 
+- Instagram: https://www.instagram.com/carlos_ghozd/
+- Discord: https://www.discord.io/chocomara
